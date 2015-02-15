@@ -396,7 +396,7 @@ xyplot(AvgSteps ~ interval | wkday, data = WkndVsWkd,type="l")
 
 ![plot of chunk unnamed-chunk-22](figure/unnamed-chunk-22-1.png) 
 
-Based on tehse graphs, you see the data does indeed seem to be different. The weekend actitivy seems to be fairly consistent, whereas on the weekday there seems to be more of an early morning spike.
+Based on these graphs, you see the data does indeed seem to be different. The weekend actitivy seems to be fairly consistent, whereas on the weekday there seems to be more of an early morning spike.
 
 Thank you for reading my project.
 
